@@ -1,7 +1,7 @@
 runtime: nodejs22
 
 instance_class: F1
-
+service: john-api
 handlers:
   - url: /.*
     script: auto
