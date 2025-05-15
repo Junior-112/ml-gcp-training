@@ -1,6 +1,6 @@
 runtime: nodejs22
 
-service: final-todo-app
+service: johnrey-final-todo
 
 instance_class: F1
 
